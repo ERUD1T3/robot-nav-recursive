@@ -1,0 +1,7 @@
+packing_station 2 2 0.00
+apparel 1 5 3.16
+bags 3 7 2.83
+chocolates 8 5 5.39
+toys 5 3 3.61
+packing_station 2 2 3.16
+18.14

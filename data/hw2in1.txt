@@ -1,0 +1,6 @@
+5
+packing_station 2 2
+bags 3 7
+apparel 1 5
+toys 5 3
+chocolates 8 5

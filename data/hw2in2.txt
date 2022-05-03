@@ -1,0 +1,11 @@
+10
+packing_station 1 1
+books 3 3
+sweets 3 4
+dairy 3 5
+fruits 6 7
+meat 8 6
+bread 9 4
+juices 8 3
+vegetables 6 2
+stationary 4 1

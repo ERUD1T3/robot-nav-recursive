@@ -1,0 +1,12 @@
+packing_station 1 1 0.00
+books 3 3 2.83
+sweets 3 4 1.00
+dairy 3 5 1.00
+fruits 6 7 3.61
+meat 8 6 2.24
+bread 9 4 2.24
+juices 8 3 1.41
+vegetables 6 2 2.24
+stationary 4 1 2.24
+packing_station 1 1 3.00
+21.79
